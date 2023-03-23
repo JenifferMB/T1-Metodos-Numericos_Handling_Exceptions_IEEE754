@@ -16,7 +16,7 @@ corretamente;
 quando a operação foi feita.
 Por exemplo, seu programa poderia funcionar assim:
 
-> python3 meucalculeitor.py 21 / -0
+python3 meucalculeitor.py 21 / -0
 Recebi 21.000000 / -0.000000 e resultado deu -inf
 val1 = 0 10000011 01010000000000000000000 = 21
 val2 = 1 00000000 00000000000000000000000 = -0
