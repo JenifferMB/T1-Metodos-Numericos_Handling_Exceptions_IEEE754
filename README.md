@@ -10,7 +10,7 @@ ou too.
 2. Depois de receber a expressão seu programa deve realizar a operação op e mostrar o resultado
 dela;
 3. Seu programa também deve mostrar a configuração de bits das duas variáveis e do resul-
-tado. Tome cuidado com a en di anness do seu processador para que a saída seja apresentada
+tado. Tome cuidado com a endianess do seu processador para que a saída seja apresentada
 corretamente;
 4. Seu programa também deve informar se alguma exceção do padrão IEEE-754 foi sinalizada
 quando a operação foi feita.
